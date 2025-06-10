@@ -1,0 +1,50 @@
+[2025-06-08 14:42:43] Stratégie de journalisation changée vers: File Logging (drawing_app.log)
+[2025-06-08 14:42:43] ACTION: CHANGE_LOGGING_STRATEGY - FILE
+[2025-06-08 14:42:45] ACTION: ADD_SHAPE - Line[startX=73,60,startY=69,60,endX=500,00,endY=113,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:42:45] ACTION: CREATE_SHAPE - Line[startX=73,60,startY=69,60,endX=500,00,endY=113,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:43:15] ACTION: ADD_SHAPE - Line[startX=466,40,startY=37,60,endX=792,00,endY=168,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:43:15] ACTION: CREATE_SHAPE - Line[startX=466,40,startY=37,60,endX=792,00,endY=168,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:43:17] ACTION: ADD_SHAPE - Line[startX=698,40,startY=164,00,endX=493,60,endY=144,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:43:17] ACTION: CREATE_SHAPE - Line[startX=698,40,startY=164,00,endX=493,60,endY=144,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:12] ACTION: UNDO_ADD_SHAPE - Line[startX=698,40,startY=164,00,endX=493,60,endY=144,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:12] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:13] ACTION: UNDO_ADD_SHAPE - Line[startX=466,40,startY=37,60,endX=792,00,endY=168,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:13] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:13] ACTION: UNDO_ADD_SHAPE - Line[startX=73,60,startY=69,60,endX=500,00,endY=113,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:13] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:13] ACTION: UNDO_ADD_SHAPE - Line[startX=280,80,startY=217,60,endX=280,80,endY=217,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:13] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:13] ACTION: UNDO_ADD_SHAPE - Line[startX=181,60,startY=137,60,endX=490,40,endY=291,20,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:13] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:14] ACTION: UNDO_ADD_SHAPE - Line[startX=181,60,startY=137,60,endX=181,60,endY=137,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:14] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:14] ACTION: UNDO_ADD_SHAPE - Line[startX=116,80,startY=142,40,endX=116,80,endY=142,40,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:14] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:14] ACTION: UNDO_ADD_SHAPE - Line[startX=81,60,startY=204,00,endX=81,60,endY=204,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:14] ACTION: UNDO - Ajouter Line
+[2025-06-08 14:45:16] ACTION: ADD_SHAPE - Line[startX=81,60,startY=204,00,endX=81,60,endY=204,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:16] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:16] ACTION: ADD_SHAPE - Line[startX=116,80,startY=142,40,endX=116,80,endY=142,40,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:16] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:16] ACTION: ADD_SHAPE - Line[startX=181,60,startY=137,60,endX=181,60,endY=137,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:16] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:16] ACTION: ADD_SHAPE - Line[startX=181,60,startY=137,60,endX=490,40,endY=291,20,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:16] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:16] ACTION: ADD_SHAPE - Line[startX=280,80,startY=217,60,endX=280,80,endY=217,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:16] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:17] ACTION: ADD_SHAPE - Line[startX=73,60,startY=69,60,endX=500,00,endY=113,60,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:17] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:17] ACTION: ADD_SHAPE - Line[startX=466,40,startY=37,60,endX=792,00,endY=168,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:17] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:17] ACTION: ADD_SHAPE - Line[startX=698,40,startY=164,00,endX=493,60,endY=144,00,color=0xb31a1aff,strokeWidth=10,00]
+[2025-06-08 14:45:17] ACTION: REDO - Ajouter Line
+[2025-06-08 14:45:44] Fermeture de l'application
+[2025-06-08 14:45:44] Application fermée proprement
+[2025-06-10 11:14:05] Stratégie de journalisation changée vers: File Logging (drawing_app.log)
+[2025-06-10 11:14:05] ACTION: CHANGE_LOGGING_STRATEGY - FILE
+[2025-06-10 11:14:06] ACTION: ADD_SHAPE - Line[startX=593,60,startY=174,40,endX=459,20,endY=492,80,color=0xffff80ff,strokeWidth=2,00]
+[2025-06-10 11:14:06] ACTION: CREATE_SHAPE - Line[startX=593,60,startY=174,40,endX=459,20,endY=492,80,color=0xffff80ff,strokeWidth=2,00]
+[2025-06-10 11:14:07] ACTION: ADD_SHAPE - Line[startX=252,80,startY=269,60,endX=546,40,endY=306,40,color=0xffff80ff,strokeWidth=2,00]
+[2025-06-10 11:14:07] ACTION: CREATE_SHAPE - Line[startX=252,80,startY=269,60,endX=546,40,endY=306,40,color=0xffff80ff,strokeWidth=2,00]
+[2025-06-10 11:14:34] Fermeture de l'application
+[2025-06-10 11:14:34] Application fermée proprement

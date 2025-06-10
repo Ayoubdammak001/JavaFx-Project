@@ -1,0 +1,98 @@
+/* Styles pour l'application de dessin */
+
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 12px;
+}
+
+/* Menu Bar */
+.menu-bar {
+    -fx-background-color: #f8f8f8;
+    -fx-border-color: #d0d0d0;
+    -fx-border-width: 0 0 1 0;
+}
+
+.menu-bar .menu {
+    -fx-padding: 5 10 5 10;
+}
+
+.menu-bar .menu:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+/* Tool Palette */
+.tool-palette {
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #d0d0d0;
+    -fx-border-width: 0 1 0 0;
+    -fx-padding: 10;
+}
+
+.tool-palette .radio-button {
+    -fx-padding: 5 0 5 0;
+}
+
+.tool-palette .button {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #c0c0c0;
+    -fx-border-width: 1;
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+    -fx-padding: 8 16 8 16;
+    -fx-cursor: hand;
+}
+
+.tool-palette .button:hover {
+    -fx-background-color: #f0f0f0;
+}
+
+.tool-palette .button:pressed {
+    -fx-background-color: #e0e0e0;
+}
+
+/* Canvas */
+.canvas {
+    -fx-border-color: #c0c0c0;
+    -fx-border-width: 1;
+    -fx-background-color: white;
+}
+
+/* Status Bar */
+.status-bar {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #d0d0d0;
+    -fx-border-width: 1 0 0 0;
+    -fx-padding: 5 10 5 10;
+}
+
+.status-bar .label {
+    -fx-text-fill: #333333;
+}
+
+/* Color Picker */
+.color-picker {
+    -fx-pref-width: 150;
+}
+
+/* Slider */
+.slider {
+    -fx-pref-width: 150;
+}
+
+/* Separators */
+.separator {
+    -fx-padding: 5 0 5 0;
+}
+
+/* Alerts */
+.alert {
+    -fx-font-size: 12px;
+}
+
+.alert .header-panel {
+    -fx-background-color: #f8f8f8;
+}
+
+.alert .content {
+    -fx-padding: 20;
+}
